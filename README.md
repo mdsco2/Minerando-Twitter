@@ -17,4 +17,4 @@ Capturar tweets que possam influenciar cenários econômicos, compondo modelos d
 
 ## Análise da atividade de Deputados Federais no Twitter
 
-O objetivo da atividade é obter uma métrica para analisar quais seriam os Deputados Federais com maior popularidade e influência no Twitter, baseados na abordagem utilizada nesse [artigo](https://towardsdatascience.com/twitter-data-mining-measuring-users-influence-ef76c9badfc0).
+O objetivo da atividade é obter uma métrica para analisar quais seriam os Deputados Federais com maior popularidade e influência no Twitter, baseados na abordagem utilizada neste [artigo](https://towardsdatascience.com/twitter-data-mining-measuring-users-influence-ef76c9badfc0).
