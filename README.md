@@ -3,17 +3,11 @@ O Twitter é uma mina de ouro de dados. Ao contrário de outras plataformas soci
 
 **Por que minerar dados do Twitter?**
 
-* Jornalistas
+* ***Jornalistas:*** identificar a repercussão de algum assunto/pauta, talvez aplicando uma análise de sentimento. 
 
-Identificar a repercussão de algum assunto/pauta, talvez aplicando uma análise de sentimento. 
+* ***Profissionais de marketing:*** verificar reação do público frente a novos produtos.
 
-* Profissionais de marketing
-
-Verificar reação do público frente a novos produtos.
-
-* Analistas financeiros
-
-Capturar tweets que possam influenciar cenários econômicos, compondo modelos de precificação.
+* ***Analistas financeiros:*** capturar tweets que possam influenciar cenários econômicos, compondo modelos de precificação.
 
 ## Análise da atividade de Deputados Federais no Twitter
 
